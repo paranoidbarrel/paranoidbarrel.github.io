@@ -1,3 +1,3 @@
-paranoidbarrel.github.io
+# paranoidbarrel.github.io
 
 just a personal webpage.
